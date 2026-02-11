@@ -1,6 +1,6 @@
 {
-  "version": "1770817210406",
-  "timestamp": 1770817210406,
+  "version": "1770817231950",
+  "timestamp": 1770817231950,
   "ordenElectricos": [
     "Jose",
     "Dani",
@@ -12,8 +12,8 @@
   "ordenMecanicos": [
     "Fran Alba",
     "Manu",
-    "Cele",
     "Santy",
+    "Cele",
     "Ramon",
     "Traian"
   ],
