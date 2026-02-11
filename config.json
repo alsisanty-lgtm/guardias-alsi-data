@@ -1,0 +1,26 @@
+{
+  "version": "1770817210406",
+  "timestamp": 1770817210406,
+  "ordenElectricos": [
+    "Jose",
+    "Dani",
+    "Abde",
+    "Fran",
+    "Fran Ruiz",
+    "Hicham"
+  ],
+  "ordenMecanicos": [
+    "Fran Alba",
+    "Manu",
+    "Cele",
+    "Santy",
+    "Ramon",
+    "Traian"
+  ],
+  "estados": {},
+  "manualOverrides": {},
+  "history": [
+    "2/2 ⚡ Dani · 🔧 Manu",
+    "26/1 ⚡ Jose · 🔧 Fran Alba"
+  ]
+}
