@@ -1,6 +1,6 @@
 {
-  "version": "1770898754617",
-  "timestamp": 1770898754617,
+  "version": "1770899665453",
+  "timestamp": 1770899665455,
   "ordenElectricos": [
     "Jose",
     "Dani",
@@ -18,7 +18,7 @@
     "Traian"
   ],
   "estados": {
-    "Ramon": "activo"
+    "Ramon": "baja"
   },
   "manualOverrides": {
     "109": {
