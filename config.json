@@ -1,9 +1,39 @@
 {
-  "version": "1",
-  "timestamp": 1700000000000,
-  "ordenElectricos": ["Jose", "Dani", "Abde", "Fran", "Fran Ruiz", "Hicham"],
-  "ordenMecanicos": ["Fran Alba", "Manu", "Cele", "Santy", "Ramon", "Traian"],
-  "estados": {},
-  "manualOverrides": {},
-  "history": []
+  "version": "1770886690809",
+  "timestamp": 1770886690810,
+  "ordenElectricos": [
+    "Jose",
+    "Dani",
+    "Abde",
+    "Fran",
+    "Fran Ruiz",
+    "Hicham"
+  ],
+  "ordenMecanicos": [
+    "Fran Alba",
+    "Manu",
+    "Santy",
+    "Cele",
+    "Ramon",
+    "Traian"
+  ],
+  "estados": {
+    "Ramon": "vacaciones"
+  },
+  "manualOverrides": {
+    "109": {
+      "electrico": "Fran"
+    },
+    "110": {
+      "electrico": "Dani",
+      "mecanico": "Santy"
+    },
+    "111": {
+      "electrico": "Abde"
+    }
+  },
+  "history": [
+    "2/2 ⚡ Dani · 🔧 Manu",
+    "26/1 ⚡ Jose · 🔧 Fran Alba"
+  ]
 }
