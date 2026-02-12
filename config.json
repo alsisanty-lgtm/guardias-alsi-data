@@ -1,6 +1,6 @@
 {
-  "version": "1770886690809",
-  "timestamp": 1770886690810,
+  "version": "1770889852410",
+  "timestamp": 1770889852413,
   "ordenElectricos": [
     "Jose",
     "Dani",
@@ -18,7 +18,7 @@
     "Traian"
   ],
   "estados": {
-    "Ramon": "vacaciones"
+    "Ramon": "activo"
   },
   "manualOverrides": {
     "109": {
